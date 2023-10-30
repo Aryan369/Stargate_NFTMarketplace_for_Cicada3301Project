@@ -1,0 +1,1 @@
+const hardhat = new ethers.providers.JsonRpcProvider("http://localhost:8545")
